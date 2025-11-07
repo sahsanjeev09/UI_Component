@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Header from "../header/Header";
 import Footer from "../footer/Footer";
 import Sidebar from "../sidebar/Sidebar";
-import "./MainLayout.css";
+import "./Mainlayout.css";
 import { Outlet } from "react-router-dom";
 
 const MainLayout = () => {
