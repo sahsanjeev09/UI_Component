@@ -2,7 +2,7 @@ import React, { useRef, useState } from "react";
 import Accordion from "../../components/accordion/Accordion";
 import useClickOutside from "../../hooks/useClickOutside";
 import ShowcaseContainer from "../../componentdisplay/ShowcaseContainer";
-import "./ClickOutsidedisplay.css";
+import "./Clickoutsidedisplay.css";
 
 export default function ClickOutsideShowcase() {
   const accordionRef = useRef(null);
